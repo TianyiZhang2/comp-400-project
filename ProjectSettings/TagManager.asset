@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Agent
+  - IsovistPoint
+  - Wall
   layers:
   - Default
   - TransparentFX
@@ -14,8 +16,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - Wall
+  - Player
   - 
   - 
   - 
@@ -50,4 +52,7 @@ TagManager:
     locked: 0
   - name: Walls
     uniqueID: 1631110723
+    locked: 0
+  - name: Debug
+    uniqueID: 1388059373
     locked: 0
